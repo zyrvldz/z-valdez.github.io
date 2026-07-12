@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Zayra Valdez",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hello! My Name is Zayra Valdez and I'm very excited to be a part of the DREAM-High program this summer. I love math, art, and my friends and family. In DREAM-High I hope to learn how to code in R and Python, analyze datasets, and interpret them in the context of systems biology.",
 
   /*
   Optional photo:
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/zyrvldz"
     }
   ]
 };
