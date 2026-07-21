@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hello! My Name is Zayra Valdez and I'm very excited to be a part of the DREAM-High program this summer. I love math, art, and my friends and family. In DREAM-High I hope to learn how to code in R and Python, analyze datasets, and interpret them in the context of systems biology.",
+  bio: "Hello! My Name is Zayra Valdez and I'm very excited to be a part of the DREAM-High program this summer. I love math, art, and my friends and family. In DREAM-High I hope to learn how to code in R and Python, analyze datasets, and interpret them in the context of systems biology. I want to have a career in nuclear engineering, specifically in the development of nuclear power, and I am the taking the steps towards that goal.",
 
   /*
   Optional photo:
@@ -43,8 +43,12 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/zyrv/1446912"
     }
+    {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/zyrv/1448261"
+    },
   ],
 
   /*
