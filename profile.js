@@ -46,7 +46,7 @@ const studentProfile = {
       url: "https://rpubs.com/zyrv/1446912"
     },
     {
-      tile: "Exploring TCGA Breast Cancer Clinical Data",
+      title: "Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/zyrv/1448261"
     }
   ],
