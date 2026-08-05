@@ -52,6 +52,10 @@ const studentProfile = {
     {
       title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
       url: "https://rpubs.com/zyrv/1451318"
+    },
+    {
+      title: "Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
+      url: "https://rpubs.com/zyrv/1451322"
     }
   ],
 
