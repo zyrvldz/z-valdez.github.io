@@ -5,11 +5,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   color: #1f2933;
-  background: #f4f7fb;
+  background: #646962;
 }
 
 .hero {
-  background: linear-gradient(135deg, #123c69, #2a6f97);
+  background: linear-gradient(135deg, #B36F04, #050454);
   color: white;
   padding: 60px 20px;
 }
