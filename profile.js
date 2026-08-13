@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "profile.jpg",
 
-  contact: "Contact information available upon request.",
+  contact: "Email: zyrvaldez333@gmail.com.",
 
   /*
   RPubs activities:
@@ -66,7 +66,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My final project, a slideshow presentation titled “The Price of Survival,” discusses and analyzes the factors that go into cancer care. I go over topics including insurance, drug pricing and treatment cost, supplemental methods of payment, and additional resources cancer patients have access to. The purpose of my project is to inform and clarify complex information regarding cancer treatment and payment.",
     url: ""
   },
 
