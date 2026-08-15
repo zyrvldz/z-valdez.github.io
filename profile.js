@@ -64,10 +64,18 @@ const studentProfile = {
   This can link to a Google Doc, Google Slides presentation,
   RPubs page, GitHub repository, PDF, or other final project page.
   */
-  finalProject: {
+  finalProject: [
+    {
     title: "My DREAM-High Final Project",
-    description: "My final project, a slideshow presentation titled “The Price of Survival,” discusses and analyzes the factors that go into cancer care. I go over topics including insurance, drug pricing and treatment cost, supplemental methods of payment, and additional resources cancer patients have access to. The purpose of my project is to inform and clarify complex information regarding cancer treatment and payment.",
-    url: ""
+    description: "My final project, a slideshow presentation titled “The Price of Survival,” discusses and analyzes the factors that go into cancer care. I go over topics including insurance, drug pricing and treatment cost, and clinical trials. The purpose of my project is to inform and clarify complex information regarding cancer treatment and payment.",
+  }, 
+  { 
+    title: "[Slideshow] The Price of Survival",
+    url: "https://docs.google.com/presentation/d/e/2PACX-1vSyn8fueyjdlcj-5Fuk7JrMp7kdAFt9f2Md1PUJy1TldCrwd4HOJJkcymQyLO5qnmlQYmr1jLw0KHDQ/pub?start=false&loop=false&delayms=3000"
+  },
+  { 
+    title: "[Video] The Price of Survival",
+    url: "https://drive.google.com/file/d/1bJxhmr6UMTB8Ibd6UiW4RBaGQfvpmjSA/view?usp=drive_link"
   },
 
   /*
