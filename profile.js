@@ -77,7 +77,7 @@ const studentProfile = {
     title: "[Video] The Price of Survival",
     url: "https://drive.google.com/file/d/1bJxhmr6UMTB8Ibd6UiW4RBaGQfvpmjSA/view?usp=drive_link"
   },
-]
+],
   /*
   GitHub links:
   You can link to your GitHub profile or specific project repositories.
@@ -88,4 +88,4 @@ const studentProfile = {
       url: "https://github.com/zyrvldz"
     }
   ]
-/*
+};
