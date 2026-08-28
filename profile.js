@@ -70,7 +70,7 @@ const studentProfile = {
     description: "My final project, a slideshow presentation titled “The Price of Survival,” discusses and analyzes the factors that go into cancer care. I go over topics including insurance, drug pricing and treatment cost, and clinical trials. The purpose of my project is to inform and clarify complex information regarding cancer treatment and payment.",
   }, 
   { 
-    title: "(Video) The Price of Survival",
+    title: "Video | The Price of Survival",
     url: "https://drive.google.com/file/d/1bJxhmr6UMTB8Ibd6UiW4RBaGQfvpmjSA/view?usp=drive_link"
   },
 ],
